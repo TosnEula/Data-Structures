@@ -1,0 +1,6 @@
+500,Bob Bason,20,12,4,2.2
+501,Frank Franklin,18,18,5, 3.6
+502,Joe Joshton,20,12,6,2.2
+503,Greg Grayson,24,4,2.2
+504,Jesse Jericho,21,6,2.2
+505,Bill Blache,18,18,4, 3.6

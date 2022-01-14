@@ -1,0 +1,14 @@
+500,LEC20,Literature,3,32
+500,AMH70,History,1,14
+500,MAC10,CalculusI,4,45
+501,HUM10,Art Appreciation,3,84
+501,MAC10,CalculusI,4,88
+502,LEC52,English Comp,2,90
+502,CHM20,Chemistry II,4,76
+502,CHM20L,Chemistry II Lab,2,100
+503,COP45,Database I,3,88
+504,Mac50,Differential Equations,5,66
+504,STA33,Statistics I,3,70
+504,CHM20,Chemistry II,4,86
+504,CHM20L,Chemistry II Lab,2,95
+505,MIN53,Mandarin I,2,60
